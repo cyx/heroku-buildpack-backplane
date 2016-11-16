@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "backplane"
+exit 0
